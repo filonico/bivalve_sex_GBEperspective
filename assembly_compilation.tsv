@@ -1,0 +1,32 @@
+Species	ID	Order	Assembly level	NCBI Accession Number	Reference
+Anadara (Scapharca) broughtonii	Sbro	Arcida	Chromosome	NA	Bai et al., 2019
+Sinonovacula constricta	Scon	Adapedonta	Chromosome	GCA_007844125.1	Ran et al., 2019
+Dreissena polymorpha	Dpol	Myida	Chromosome	GCA_020536995.1	McCartney et al., 2022
+Dreissena rostriformis	Dros	Myida	Scaffold	GCA_007657795.1	Calcino et al., 2019
+Gigantidas (Bathymodiolus) platifrons	Bpla	Mytilida	Scaffold	GCA_002080005.1	Sun et al., 2017
+Xenostrobus securis (Limnoperna fortunei)	Lfor	Mytilida	Scaffold	GCA_003130415.1	Uliano-Silva et al., 2018
+Mytilus unguiculatus (coruscus)	Mcor	Mytilida	Chromosome	GCA_017311375.1	Yang et al., 2021
+Mytilus edulis	Medu	Mytilida	Scaffold	GCA_905397895.1	Corrochano-Fraile et al., 2022
+Mytilus galloprovincialis	Mgal	Mytilida	Scaffold	GCA_900618805.1	Gerdol et al., 2020
+Modiolus philippinarum	Mphi	Mytilida	Scaffold	GCA_002080025.1	Sun et al., 2017
+Perna viridis	Pvir	Mytilida	Scaffold	GCA_018327765.1	Inoue et al., 2021
+Magallana (Crassostrea) ariakensis	Cari	Ostreida	Chromosome	GCA_020567875.1	Li et al., 2021
+Magallana (Crassostrea) gigas	Cgig	Ostreida	Chromosome	GCF_902806645.1	Peñaloza et al., 2021
+Magallana (Crassostrea) hongkongensis	Chon	Ostreida	Chromosome	GCA_015776775.1	Peng et al., 2020
+Crassostrea virginica	Cvir	Ostreida	Chromosome	GCF_002022765.2	Gómez-Chiarri et al., 2015
+Magallana hongkongensis	Chon	Ostreida	Scaffold	GCA_016163765.1	Li et al., 2020
+Saccostrea glomerata	Sglo	Ostreida	Scaffold	GCA_003671525.1	Powell et al., 2018
+Argopecten irradians concentricus	Airc	Pectinida	Scaffold	GCA_004382765.1	Liu et al., 2020
+Argopecten irradians irradians	Airi	Pectinida	Scaffold	GCA_004382745.1	Liu et al., 2020
+Argopecten purpuratus	Apur	Pectinida	Scaffold	NA	Li et al., 2018
+Pecten maximus	Pmax	Pectinida	Chromosome	GCF_902652985.1	Kenny et al., 2020
+Mizuhopecten (Patinopecten) yessoensis	Pyes	Pectinida	Scaffold	GCF_002113885.1	Wang et al., 2017
+Pinctada fucata	Pfux	Pterioida	Scaffold	NA	Takeuchi et al., 2012
+Pinctada fucata martensii	Pfum	Pterioida	Chromosome	GCA_002216045.1	Du et al., 2017
+Margaritifera margaritifera	Mmar	Unionida	Scaffold	GCA_015947965.1	Gomes-dos-Santos et al., 2021
+Megalonaias nervosa	Mner	Unionida	Scaffold	GCA_016617855.1	Rogers et al, 2020
+Potamilus streckersoni	Pstre	Unionida	Scaffold	GCA_016746295.1	Smith, 2021
+Calyptogena (Archivesica) marissinica	Amar	Venerida	Chromosome	GCA_014843695.1	Ip et al., 2021
+Cyclina sinensis	Csin	Venerida	Scaffold	GCA_012932295.1	Wei et al., 2020
+Mercenaria mercenaria	Mmer	Venerida	Chromosome	GCF_014805675.1	Song et al., 2021
+Ruditapes philippinarum	Rphi	Venerida	Chromosome	GCA_026571515.1	Xu et al., 2022
