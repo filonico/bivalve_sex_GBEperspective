@@ -1,32 +1,24 @@
-Species	ID	Order	Assembly level	NCBI Accession Number	Reference
-Anadara (Scapharca) broughtonii	Sbro	Arcida	Chromosome	NA	Bai et al., 2019
-Sinonovacula constricta	Scon	Adapedonta	Chromosome	GCA_007844125.1	Ran et al., 2019
-Dreissena polymorpha	Dpol	Myida	Chromosome	GCA_020536995.1	McCartney et al., 2022
-Dreissena rostriformis	Dros	Myida	Scaffold	GCA_007657795.1	Calcino et al., 2019
-Gigantidas (Bathymodiolus) platifrons	Bpla	Mytilida	Scaffold	GCA_002080005.1	Sun et al., 2017
-Xenostrobus securis (Limnoperna fortunei)	Lfor	Mytilida	Scaffold	GCA_003130415.1	Uliano-Silva et al., 2018
-Mytilus unguiculatus (coruscus)	Mcor	Mytilida	Chromosome	GCA_017311375.1	Yang et al., 2021
-Mytilus edulis	Medu	Mytilida	Scaffold	GCA_905397895.1	Corrochano-Fraile et al., 2022
-Mytilus galloprovincialis	Mgal	Mytilida	Scaffold	GCA_900618805.1	Gerdol et al., 2020
-Modiolus philippinarum	Mphi	Mytilida	Scaffold	GCA_002080025.1	Sun et al., 2017
-Perna viridis	Pvir	Mytilida	Scaffold	GCA_018327765.1	Inoue et al., 2021
-Magallana (Crassostrea) ariakensis	Cari	Ostreida	Chromosome	GCA_020567875.1	Li et al., 2021
-Magallana (Crassostrea) gigas	Cgig	Ostreida	Chromosome	GCF_902806645.1	Peñaloza et al., 2021
-Magallana (Crassostrea) hongkongensis	Chon	Ostreida	Chromosome	GCA_015776775.1	Peng et al., 2020
-Crassostrea virginica	Cvir	Ostreida	Chromosome	GCF_002022765.2	Gómez-Chiarri et al., 2015
-Magallana hongkongensis	Chon	Ostreida	Scaffold	GCA_016163765.1	Li et al., 2020
-Saccostrea glomerata	Sglo	Ostreida	Scaffold	GCA_003671525.1	Powell et al., 2018
-Argopecten irradians concentricus	Airc	Pectinida	Scaffold	GCA_004382765.1	Liu et al., 2020
-Argopecten irradians irradians	Airi	Pectinida	Scaffold	GCA_004382745.1	Liu et al., 2020
-Argopecten purpuratus	Apur	Pectinida	Scaffold	NA	Li et al., 2018
-Pecten maximus	Pmax	Pectinida	Chromosome	GCF_902652985.1	Kenny et al., 2020
-Mizuhopecten (Patinopecten) yessoensis	Pyes	Pectinida	Scaffold	GCF_002113885.1	Wang et al., 2017
-Pinctada fucata	Pfux	Pterioida	Scaffold	NA	Takeuchi et al., 2012
-Pinctada fucata martensii	Pfum	Pterioida	Chromosome	GCA_002216045.1	Du et al., 2017
-Margaritifera margaritifera	Mmar	Unionida	Scaffold	GCA_015947965.1	Gomes-dos-Santos et al., 2021
-Megalonaias nervosa	Mner	Unionida	Scaffold	GCA_016617855.1	Rogers et al, 2020
-Potamilus streckersoni	Pstre	Unionida	Scaffold	GCA_016746295.1	Smith, 2021
-Calyptogena (Archivesica) marissinica	Amar	Venerida	Chromosome	GCA_014843695.1	Ip et al., 2021
-Cyclina sinensis	Csin	Venerida	Scaffold	GCA_012932295.1	Wei et al., 2020
-Mercenaria mercenaria	Mmer	Venerida	Chromosome	GCF_014805675.1	Song et al., 2021
-Ruditapes philippinarum	Rphi	Venerida	Chromosome	GCA_026571515.1	Xu et al., 2022
+Species	Species ID	Order	Assembly level	BUSCO score	Sequencing method	Reference	NCBI Accession Number
+Anadara (Scapharca) broughtonii	Sbro	Arcida	Chromosome	C:91.2%[S:85.6%,D:5.6%],F:2.6%,M:6.2%	HiSeq X	Bai et al., 2019	NA
+Sinonovacula constricta	Scon	Adapedonta	Chromosome	C:92.5%[S:80.4%,D:12.1%],F:3.4%,M:4.1%	Illumina HiSeq X; PacBio Sequel	Ran et al., 2019	GCA_007844125.1
+Dreissena polymorpha	Dpol	Myida	Chromosome	C:86.9%[S:75.1%,D:11.8%],F:6.4%,M:6.7%	PacBio Sequel; Illumina HiSeq	McCartney et al., 2022	GCA_020536995.1
+Dreissena rostriformis	Dros	Myida	Scaffold	C:75.2%[S:73.2%,D:2.0%],F:15.2%,M:9.6%	Illumina HiSeq	Calcino et al., 2019	GCA_007657795.1
+Mytilus unguiculatus (coruscus)	Mcor	Mytilida	Chromosome	C:80.0%[S:79.1%,D:0.9%],F:7.7%,M:12.3%	Oxford Nanopore PromethION	Yang et al., 2021	GCA_017311375.1
+Mytilus edulis	Medu	Mytilida	Scaffold	C:83.7%[S:64.5%,D:19.2%],F:5.2%,M:11.1%	Oxoford Nanopore; Illumina HiSeq X	Corrochano-Fraile et al., 2022	GCA_905397895.1
+Mytilus galloprovincialis	Mgal	Mytilida	Scaffold	C:80.3%[S:47.5%,D:32.8%],F:8.8%,M:10.9%	Illumina HiSeq2000	Gerdol et al., 2020	GCA_900618805.1
+Perna viridis	Pvir	Mytilida	Scaffold	C:99.4%[S:99.0%,D:0.4%],F:0.2%,M:0.4%	Illumina HiSeq2500	Inoue et al., 2021	GCA_018327765.1
+Magallana (Crassostrea) ariakensis	Cari	Ostreida	Chromosome	C:94.6%[S:90.9%,D:3.7%],F:0.9%,M:4.5%	Oxford Nanopore PromethION	Li et al., 2021	GCA_020567875.1
+Magallana (Crassostrea) gigas	Cgig	Ostreida	Chromosome	C:98.5%[S:67.6%,D:30.9%],F:0.3%,M:1.2%	PacBio Sequel	Peñaloza et al., 2021	GCF_902806645.1
+Crassostrea virginica	Cvir	Ostreida	Chromosome	C:98.1%[S:58.6%,D:39.5%],F:0.3%,M:1.6%	PacBio_RSII	Gómez-Chiarri et al., 2015	GCF_002022765.2
+Saccostrea glomerata	Sglo	Ostreida	Scaffold	C:88.9%[S:85.3%,D:3.6%],F:5.1%,M:6.0%	Illumina HiSeq	Powell et al., 2018	GCA_003671525.1
+Argopecten irradians concentricus	Airc	Pectinida	Scaffold	C:94.8%[S:93.9%,D:0.9%],F:3.7%,M:1.5%	Illumina HiSeq	Liu et al., 2020	GCA_004382765.1
+Argopecten irradians irradians	Airi	Pectinida	Scaffold	C:94.8%[S:93.9%,D:0.9%],F:3.7%,M:1.5%	Illumina HiSeq	Liu et al., 2020	GCA_004382745.1
+Argopecten purpuratus	Apur	Pectinida	Scaffold	C:89.2%[S:88.5%,D:0.7%],F:5.0%,M:5.8%	PacBio Sequel	Li et al., 2018b	NA
+Pecten maximus	Pmax	Pectinida	Chromosome	C:98.5%[S:74.7%,D:23.8%],F:0.4%,M:1.1%	PacBio, Chromium 10X, Hi-C	Kenny et al., 2020	GCF_902652985.1
+Mizuhopecten (Patinopecten) yessoensis	Pyes	Pectinida	Scaffold	C:98.6%[S:75.2%,D:23.4%],F:0.4%,M:1.0%	Illumina HiSeq	Wang et al., 2017	GCF_002113885.1
+Margaritifera margaritifera	Mmar	Unionida	Scaffold	C:92.6%[S:82.3%,D:10.3%],F:3.2%,M:4.2%	Illumina NovaSeq	Gomes-dos-Santos et al., 2021	GCA_015947965.1
+Potamilus streckersoni	Pstr	Unionida	Scaffold	C:74.7%[S:73.8%,D:0.9%],F:7.0%,M:18.3%	PacBio Sequel; 10X Genomics	Smith, 2021	GCA_016746295.1
+Calyptogena (Archivesica) marissinica	Amar	Venerida	Chromosome	C:82.0%[S:80.0%,D:2.0%],F:6.1%,M:11.9%	PacBio Sequel; Illumina NovaSeq	Ip et al., 2021	GCA_014843695.1
+Cyclina sinensis	Csin	Venerida	Scaffold	C:94.0%[S:83.8%,D:10.2%],F:1.9%,M:4.1%	Illumina HiSeq; PacBio	Wei et al., 2020	GCA_012932295.1
+Mercenaria mercenaria	Mmer	Venerida	Chromosome	C:95.4%[S:70.9%,D:24.5%],F:0.5%,M:4.1%	PacBio; Illumina	Song et al., 2021	GCF_014805675.1
+Ruditapes philippinarum	Rphi	Venerida	Chromosome	C:83.4%[S:74.5%,D:8.9%],F:8.8%,M:7.8%	Illumina HiSeq	Xu et al., 2022	GCA_026571515.1
