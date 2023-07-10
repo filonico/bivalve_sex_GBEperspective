@@ -7,5 +7,5 @@ In this directory you can find:
 	- [<code>Dmrt2.aligned.trim06.faa</code>](./Dmrt2.aligned.trim06.faa);
 	- [<code>Dmrt3.aligned.trim06.faa</code>](./Dmrt3.aligned.trim06.faa);
 	- [<code>Dmrt45.aligned.trim06.faa</code>](./Dmrt45.aligned.trim06.faa);
-- the R script to generate the panel of **Fig. 2B** and **Fig. 2C** ([<code>generate_plots.R</code>](./generate_plots.R)); the final version was then manually edited to add bivalve taxonomy and icons. 
+- the R script to generate the panel of [**Fig. 2B**](../images/fig_2.png) and [**Fig. 2C**](../images/fig_2.png) ([<code>generate_plots.R</code>](./generate_plots.R)); the final version was then manually edited to add bivalve taxonomy and icons. 
 
