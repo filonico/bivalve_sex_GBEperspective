@@ -1,11 +1,13 @@
-# The importance of comparative genomics and integrative biology in the study of sex-determination related genes: bivalves as a case study
+# Bivalves ad emerging model systems to study the mechanisms and evolution of sex determination: a genomic point of view
 **[Filippo Nicolini](https://linktr.ee/filo.nico/)**, **[Fabrizio Ghiselli](https://github.com/fghiselli)**, **[Andrea Luchetti](https://github.com/andluche)**, **Liliana Milani**
 
-In this repository you will find data and codes used to perform the analyses of *Dmrt* genes in bivalve molluscs for the GBE perspective.
+In this repository you will find data and codes used to perform the analyses of *Dmrt* genes in bivalve molluscs.
 
 <p align="center">
 <img src="https://user-images.githubusercontent.com/72141380/208406158-1f23aeeb-7d3c-4296-a982-36d771a56eb3.png", height="500">
 </p>
+
+Feel also free to visit our group GitHub page **[CompBio-BO](https://github.com/CompBio-BO)**.
   
 ## Infos
   - <code>assembly_compilation.tsv</code> is the online version of the Table 1 from the manuscript, but it also contains the species ID used in the ML phylogenetic tree.
