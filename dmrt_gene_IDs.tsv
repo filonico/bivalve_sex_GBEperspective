@@ -1,6 +1,6 @@
 #geneID shows both the speciesID as can been found in Table 1 of the manuscript (assembly_compilation.tsv in this repository) and the gene accesion number
 #gene_orthology shows the identity of each gene according to phylogenetic analysis; asterisks mark reference genes from Evensen et al. (2022) 
-geneID  gene_orthology
+#geneID  gene_orthology
 Pmar_AIE16094.1	Dmrt1L*
 Pstr_FUN.026821.T1	Dmrt1L
 Mmar_MMAM00000008302	Dmrt1L
