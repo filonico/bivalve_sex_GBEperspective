@@ -62,7 +62,7 @@ for (gene in genes) {
 }
 
 # transform Gene column into factors
-dist.all.distr$Gene <- factor(dist.all.distr$Gene, levels = gene_order)
+dist.all.distr$Gene <- factor(dist.all.distr$Gene, levels = genes)
 
 ### STATISTICS ABOUT DIFFERENCES IN AMINO ACID DISTANCES BETWEEN DMRT GROUPS ###
 
