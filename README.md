@@ -11,6 +11,6 @@ Feel also free to visit our group GitHub page **[CompBio-BO](https://github.com/
   
 ## Infos
   - [<code>ML_phylogeny/</code>](./ML_phylogeny/) contains the data that are necessary to infer the ML tree in **Fig. 2A**;
-  - [<code>heatmap_boxplot/</code>](./heatmap_boxplot/) contains the data that are necessary to generate plots in **Fig. 2B-C**;
+  - [<code>compilation_boxplot/</code>](./compilation_boxplot/) contains the data that are necessary to generate plots in **Fig. 2B-C**;
   - [<code>assembly_dataset.tsv</code>](./assembly_dataset.tsv) is the online version of the **Table 1** from the manuscript, so that it can be easily parsed;
   - [<code>dmrt_gene_IDs.tsv</code>](./dmrt_gene_IDs.tsv) is a table with accession numbers and identities of the sequences used in the ML phylogenetic analysis.
