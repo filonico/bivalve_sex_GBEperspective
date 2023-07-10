@@ -1,4 +1,4 @@
-# Bivalves ad emerging model systems to study the mechanisms and evolution of sex determination: a genomic point of view
+# Bivalves as emerging model systems to study the mechanisms and evolution of sex determination: a genomic point of view
 **[Filippo Nicolini](https://linktr.ee/filo.nico/)**, **[Fabrizio Ghiselli](https://github.com/fghiselli)**, **[Andrea Luchetti](https://github.com/andluche)**, **Liliana Milani**
 
 In this repository you will find data and codes used to perform the analyses of *Dmrt* genes in bivalve molluscs.
