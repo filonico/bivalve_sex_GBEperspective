@@ -10,7 +10,7 @@ In this repository you will find data and codes used to perform the analyses of 
 Feel also free to visit our group GitHub page **[CompBio-BO](https://github.com/CompBio-BO)**.
   
 ## Infos
-  - <code>assembly_compilation.tsv</code> is the online version of the Table 1 from the manuscript, but it also contains the species ID used in the ML phylogenetic tree.
-  - <code>distance_boxplot.R</code> is the R script used (i) to perform the statistical analyses related to the amino acid sequence divergence of *Dmrt* genes and (ii) to generate the boxplot from **Fig. 1B**;
-  - <code>dmrt_gene_IDs.tsv</code> is a table with accession numbers and identities of the sequences used in the ML phylogenetic analysis;
-  - <code>dmrt_tree.newick</code> is the ML phylogenetic tree from **Fig. 1A** in the newick format.
+  - [<code>assembly_compilation.tsv</code>](./assembly_compiltion.tsv) is the online version of the Table 1 from the manuscript, but it also contains the species ID used in the ML phylogenetic tree.
+  - [<code>distance_boxplot.R</code>](./distance_boxplot.R) is the R script used (i) to perform the statistical analyses related to the amino acid sequence divergence of *Dmrt* genes and (ii) to generate the boxplot from **Fig. 2B**;
+  - [<code>dmrt_gene_IDs.tsv</code>](./dmrt_gene_IDs.tsv) is a table with accession numbers and identities of the sequences used in the ML phylogenetic analysis;
+  - [<code>dmrt_tree.newick</code>](./dmrt_tree.newick) is the ML phylogenetic tree from **Fig. 2A** in the newick format.
